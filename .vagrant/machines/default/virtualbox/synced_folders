@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/fireinfo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/fireinfo","hostpath":"/Users/markbonnievestil/Sites/fireinfo","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/markbonnievestil/Sites/fireinfo","disabled":false}}}
