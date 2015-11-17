@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/home.scss","app.scss"],"names":[],"mappings":"AACA;EACC,WAAW,EACX;;ACDD;EAAO,qBAAoB;EAAE,kBAAiB,EAAI","file":"app.css","sourcesContent":["\n.home {\n\tcolor: red;\n}","@import 'pages/home';\n\nbody { padding-bottom:40px; padding-top:39px; }"],"sourceRoot":"/source/"}

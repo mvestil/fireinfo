@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styles.css","sourcesContent":[".home {\n  color: red; }\n\nbody {\n  padding-bottom: 40px;\n  padding-top: 39px; }\n\n/*# sourceMappingURL=app.css.map */\n"],"sourceRoot":"/source/"}
