@@ -1,8 +1,8 @@
 <?php
 
-namespace Fireinfo\Http\Requests;
+namespace App\Http\Requests;
 
-use Fireinfo\Http\Requests\Request;
+use App\Http\Requests\Request;
 
 class CreateUserRequest extends Request
 {

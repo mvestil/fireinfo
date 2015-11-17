@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: Fireinfo
-        psr4_prefix: Fireinfo
+        namespace: App
+        psr4_prefix: App
         src_path: app

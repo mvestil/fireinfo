@@ -1,10 +1,10 @@
 <?php
 
-namespace Fireinfo\Http\Controllers\Auth;
+namespace App\Http\Controllers\Auth;
 
-use Fireinfo\User;
+use App\User;
 use Validator;
-use Fireinfo\Http\Controllers\Controller;
+use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

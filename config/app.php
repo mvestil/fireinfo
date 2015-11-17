@@ -140,10 +140,10 @@ return [
         /*
          * Application Service Providers...
          */
-        Fireinfo\Providers\AppServiceProvider::class,
-        Fireinfo\Providers\AuthServiceProvider::class,
-        Fireinfo\Providers\EventServiceProvider::class,
-        Fireinfo\Providers\RouteServiceProvider::class,
+        App\Providers\AppServiceProvider::class,
+        App\Providers\AuthServiceProvider::class,
+        App\Providers\EventServiceProvider::class,
+        App\Providers\RouteServiceProvider::class,
 
     ],
 

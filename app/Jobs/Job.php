@@ -1,6 +1,6 @@
 <?php
 
-namespace Fireinfo\Jobs;
+namespace App\Jobs;
 
 use Illuminate\Bus\Queueable;
 

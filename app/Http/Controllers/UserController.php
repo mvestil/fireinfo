@@ -1,6 +1,6 @@
 <?php
 
-namespace Fireinfo\Http\Controllers;
+namespace App\Http\Controllers;
 
 use Validator;
 use Illuminate\Http\Request;
@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Redirect;
 use Illuminate\Http\Response;
 use Illuminate\Support\MessageBag;
 
-use Fireinfo\User;
+use App\User;
 
 class UserController extends Controller 
 {

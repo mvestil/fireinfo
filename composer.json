@@ -22,7 +22,7 @@
             "database"
         ],
         "psr-4": {
-            "Fireinfo\\": "app/"
+            "App\\": "app/"
         }
     },
     "autoload-dev": {
