@@ -1,1 +1,0 @@
-suway lang gud
